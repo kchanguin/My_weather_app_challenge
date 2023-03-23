@@ -1,0 +1,85 @@
+body { 
+    background-color: #f9fbfd; 
+    } 
+    
+    header { 
+    background-color: darkcyan; 
+    text-align: center; 
+    padding: 30px; 
+    font-size: 50px; 
+    color:white; 
+    border: black solid 3px; 
+    border-radius: 15px; 
+    } 
+    
+    #searcharea { 
+    padding-left: 20px; 
+    padding-right: 20px; 
+    margin-left: 20%; 
+    margin-right: 20px; 
+    background-color: white; 
+    float:left; 
+    margin-bottom: 100%; 
+    font-size: 30px; 
+    font-style:oblique; 
+    border-radius: 10px; 
+    border: black solid 3px; 
+    } 
+    
+    h2{ 
+    color:blue; 
+    } 
+    
+    .listOfCity li{ 
+    list-style:none; 
+    } 
+    
+    .listOfCity button{ 
+    color:white; 
+    background-color: darkcyan; 
+    padding: 10px; 
+    border-radius: 10px; 
+    margin-right:10px; 
+    font-size: 40px; 
+    
+    } 
+    
+    #searchbutton { 
+    float:right; 
+    color:white; 
+    background-color: darkcyan; 
+    padding: 10px; 
+    border-radius: 10px; 
+    margin-right:10px; 
+    
+    } 
+    
+    #today{ 
+    
+    background-color: antiquewhite; 
+    border:black solid 2px; 
+    columns: 1; 
+    column-gap: 20px; 
+    column-width: 20px; 
+    margin-right:20%; 
+    min-width: 250px; 
+    padding-left: 10px; 
+    } 
+    
+    #forecast { 
+    background-color: white; 
+    margin-right:20%; 
+    display: none; 
+    
+    } 
+    
+    .forecast li{ 
+    list-style: none; 
+    float:left; 
+    background-color: antiquewhite; 
+    border: solid gray 2px; 
+    padding-right: 60px; 
+    padding-left: 10px; 
+    margin-right: 20px; 
+    margin-top: 10px; 
+    }
